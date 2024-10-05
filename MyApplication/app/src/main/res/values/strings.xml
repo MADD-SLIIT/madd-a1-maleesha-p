@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Green Grow v1</string>
+    <string name="logo_desc">GreenGrow</string>
+    <string name="tagline">Green House Management App</string>
+    <string name="email_login">Login with Email</string>
+    <string name="google_login">Login with Google</string>
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="email_signup">Sign up with Email</string>
+    <string name="google_signup">Sign up with Google</string>
+    <string name="facebook_signup">Sign up with Facebook</string>
+    <string name="herbs_desc">Herbs Plantation Image</string>
+    <string name="notification_desc">Notification Icon</string>
+    <string name="profile_desc">Profile Icon</string>
+    <string name="notificationTitle">Notification</string>
+    <string name="notification_description1">Cleaning grass on the rice plant</string>
+    <string name="notification_description2">Planting melon seeds</string>
+    <string name="notification_description3">Humidity Level</string>
+    <string name="notification_description4">Watering plants</string>
+
+
 </resources>

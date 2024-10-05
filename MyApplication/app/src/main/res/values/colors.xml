@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="greenGrowBackground">#009688</color>
+    <color name="loginBackground">#E0F7FA</color> <!-- Light greenish background -->
+    <color name="inputBackground">#A5D6A7</color> <!-- Input field background -->
+    <color name="buttonColor">#004d40</color> <!-- Dark green for button -->
+    <color name="linkColor">#00796b</color> <!-- Color for sign-up link -->
+    <color name="signupBackground">#E0F7FA</color> <!-- Light greenish background -->
+    <color name="homeBackground">#E0F7FA</color> <!-- Light greenish background -->
+    <color name="highTempColor">#FF8C00</color> <!-- Color for high temp section -->
+    <color name="lowTempColor">#1E90FF</color> <!-- Color for low temp section -->
+    <color name="pageBackground">#E0F7FA</color> <!-- Light greenish background -->
+    <color name="scheduleBackground">#FFF8E1</color> <!-- Light yellowish background for schedules -->
+    <color name="notificationPrimaryColor">#4CAF50</color> <!-- Green background for primary notifications -->
+    <color name="notificationSecondaryColor">#FFFFFF</color> <!-- White background for secondary notifications -->
+    <color name="notificationDangerColor">#F44336</color> <!-- Red background for high-priority notifications -->
+    <color name="notificationWarningColor">#FF9800</color> <!-- Orange background for warnings -->
+
+
+
 </resources>
